@@ -1,2 +1,2 @@
-# NLP Based Essay Generator
-I used a Keras model to break down patterns in a compilement of essays and generate its own.
+# NLP Essay Generator
+Uses Keras to generate new essays from a large DB of pre-written ones.
